@@ -2,4 +2,5 @@
 ### Problem
 ![](capture.png)
 ### Visual Representation
-![]()
+![](vis.png)
+![](vis2.png)
